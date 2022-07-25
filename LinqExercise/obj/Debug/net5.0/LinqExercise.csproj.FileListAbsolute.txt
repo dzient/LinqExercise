@@ -1,0 +1,16 @@
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\bin\Debug\net5.0\LinqExercise.exe
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\bin\Debug\net5.0\LinqExercise.deps.json
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\bin\Debug\net5.0\LinqExercise.runtimeconfig.json
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\bin\Debug\net5.0\LinqExercise.runtimeconfig.dev.json
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\bin\Debug\net5.0\LinqExercise.dll
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\bin\Debug\net5.0\LinqExercise.pdb
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\LinqExercise.csproj.AssemblyReference.cache
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\LinqExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\LinqExercise.AssemblyInfoInputs.cache
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\LinqExercise.AssemblyInfo.cs
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\LinqExercise.dll
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\refint\LinqExercise.dll
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\LinqExercise.pdb
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\LinqExercise.genruntimeconfig.cache
+C:\Users\kc2us\Documents\GitHub\LinqExercise\LinqExercise\obj\Debug\net5.0\ref\LinqExercise.dll

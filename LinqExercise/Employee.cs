@@ -1,7 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+//-----------------------------------------------------------------
+// Practice Linq
+//
+// Name: David Zientara
+// Date: 7-25-2022
+// Comments: An exercise in using Linq, part 2
+// Made changes per the instructions
+//-----------------------------------------------------------------
 namespace LinqExercise
 {
     internal class Employee
